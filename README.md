@@ -1,4 +1,4 @@
-# airdrop-hunt-bot
+# Airdrop Hunt Bot
 
 <div id="header" align="center">
   <img src="https://github.com/deadspyexx/airdrop-hunt-bot/blob/main/airdrop.jpg" width="600"/>
