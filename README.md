@@ -1,7 +1,7 @@
 # airdrop-hunt-bot
 
 <div id="header" align="center">
-  <img src="https://github.com/deadspyexx/airdrop-hunt-bot/blob/main/airdrop.jpg" width="200"/>
+  <img src="https://github.com/deadspyexx/airdrop-hunt-bot/blob/main/airdrop.jpg" width="450"/>
 </div>
 
 ## About
