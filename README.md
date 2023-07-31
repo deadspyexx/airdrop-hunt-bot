@@ -1,6 +1,8 @@
 # airdrop-hunt-bot
 
-![](https://github.com/deadspyexx/airdrop-hunt-bot/blob/main/airdrop.jpg?raw=true)
+<div id="header" align="center">
+  <img src="https://github.com/deadspyexx/airdrop-hunt-bot/blob/main/airdrop.jpg?raw=true" width="100"/>
+</div>
 
 ## About
 software  designed to automate the process of participating in airdrops, making it easier for users to receive airdropped tokens across various platforms. It might help users find and participate in airdrops, manage multiple wallet addresses, and keep track of their airdrop rewards efficiently.
