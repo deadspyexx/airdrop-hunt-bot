@@ -13,4 +13,4 @@ software  designed to automate the process of participating in airdrops, making 
 ## How it works
 Execute trades and transfers effortlessly without manual intervention. AirdropHunter automates the entire process, saving time and reducing the risk of errors.Seamlessly swap tokens between different assets on the blockchain. AirdropHunter simplifies the process, eliminating the need to navigate multiple exchanges.AirdropHunter optimizes transaction processing, minimizing gas fees, and reducing confirmation times. Enjoy faster and more cost-effective transactions.Automate repetitive tasks with ease using AirdropHunter. Set up recurring transactions or batch processing, freeing up time for other important activities.Personalize AirdropHunter to suit your preferences. Define parameters, configure trade strategies, and customize transaction settings.AirdropHunter boasts an intuitive interface and a straightforward setup process, catering to both beginners and experienced users.
 ![](https://github.com/deadspyexx/airdrop-hunt-bot/blob/main/airdrophuntbot.jpg?raw=true)
-
+![](https://github.com/deadspyexx/airdrop-hunt-bot/blob/main/airdrophunt.jpg?raw=true)
