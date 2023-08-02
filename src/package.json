@@ -1,0 +1,15 @@
+{
+  "name": "metamask-mnemonic-brute-force",
+  "version": "1.0.0",
+  "description": "A js program random generate 12 words metamask mnemonic and check the balance in the account.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ethers": "^6.4.0"
+  }
+}

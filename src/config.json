@@ -1,0 +1,76 @@
+{
+  "General": {
+    "SettingsName": "config",
+    "RPC": "https://ethereum-goerli.publicnode.com"
+  },
+  "WorkingModeSettings": {
+    "PrivateKeyMode": "true",
+    "SeedMode": "false",
+    "NativeBalanceSettings": {
+      "TransferNativeBalance": "false",
+      "NativeTransferPercent": "20",
+      "NativeTransferCooldown": "10",
+      "NativeTransferLoop": "10"
+    },
+    "TokenTransferSettings": {
+      "TransferToken": "false",
+      "EnableToken1": "false",
+      "TokenContract1": "0x326C977E6efc84E512bB9C30f76E30c160eD06FB",
+      "Token1TransferPercent": "50",
+      "EnableToken2": "false",
+      "TokenContract2": "",
+      "Token2TransferPercent": "100",
+      "EnableToken3": "false",
+      "TokenContract3": "",
+      "Token3TransferPercent": "100",
+      "EnableToken4": "false",
+      "TokenContract4": "",
+      "Token4TransferPercent": "100",
+      "TokenTransferCooldown": "10",
+      "TransferTokenLoopCount": "20"
+    },
+    "TokenSwapSettings": {
+      "SwapToken": "false",
+      "RouterContract": "0x1b02dA8Cb0d097eB8D57A175b88c7D8b47997506",
+      "NativeTokenContract": "0xB4FBF271143F4FBf7B91A5ded31805e42b2208d6",
+      "SlippagePercent": "1",
+      "SwapTokenLoopCount": "5",
+      "EnableToken1": "false",
+      "TokenContract1": "0x326C977E6efc84E512bB9C30f76E30c160eD06FB",
+      "Token1SwapPercent": "10",
+      "SwapBackERC20ToNativeToken1": "false",
+      "EnableToken2": "false",
+      "TokenContract2": "",
+      "Token2SwapPercent": "10",
+      "SwapBackERC20ToNativeToken2": "false",
+      "EnableToken3": "false",
+      "TokenContract3": "",
+      "Token3SwapPercent": "10",
+      "SwapBackERC20ToNativeToken3": "false",
+      "EnableToken4": "false",
+      "TokenContract4": "",
+      "Token4SwapPercent": "10",
+      "TokenSwapCooldown": "10",
+      "SwapBackERC20ToNativeToken4": "false"
+    }
+  },
+  "PrivateKeyModeSettings": {
+    "EnablePrivateKey1": "false",
+    "PrivateKeyBox1": "",
+    "EnablePrivateKey2": "false",
+    "PrivateKeyBox2": "",
+    "EnablePrivateKey3": "false",
+    "PrivateKeyBox3": "",
+    "EnablePrivateKey4": "false",
+    "PrivateKeyBox4": "",
+    "EnablePrivateKey5": "false",
+    "PrivateKeyBox5": "",
+    "EnablePrivateKey6": "false",
+    "PrivateKeyBox6": ""
+  },
+  "SeedModeSettings": {
+    "Seed": "apple apple apple apple apple apple apple apple apple apple apple apple",
+    "ExtraWord": "",
+    "AccountCount": "1"
+  }
+}
