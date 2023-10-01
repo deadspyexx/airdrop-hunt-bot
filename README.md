@@ -14,7 +14,17 @@
   </a>
 </p>
 
-The bot can transfer in ZkSync. Software designed to automate the process of participating in airdrops, making it easier for users to receive airdropped tokens across various platforms. It might help users find and participate in airdrops, manage multiple wallet addresses, and keep track of their airdrop rewards efficiently.
+The bot can transfer in ZkSync, LayerZero, Base, Linea and PolygonzkEVM. Software designed to automate the process of participating in airdrops, making it easier for users to receive airdropped tokens across various platforms. It might help users find and participate in airdrops, manage multiple wallet addresses, and keep track of their airdrop rewards efficiently.
+
+### Features
+The software performs actions for each potential airdrop:
+- Connecting a wallet for DApps
+- Active network operations
+- Bulk ETH deposit on testnet for private keys
+- Multi-networking with bridges
+- Interaction with DEX, live minting and more
+
+The bot uses airdrop algorithms from here (https://airdrops.io/).
 
 ### Requirements
 - Windows 7/10/11
