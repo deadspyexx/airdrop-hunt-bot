@@ -1,4 +1,4 @@
-# Airdrop Hunt Bot
+# airdrop-hunt-bot
 <p align="center">
   <a href="https://www.npmjs.com/package/hashlips_art_engine">
     <img alt="downloads" src="https://img.shields.io/npm/dm/hashlips_art_engine.svg?color=blue" target="_blank" />
@@ -41,7 +41,25 @@ The bot uses airdrop algorithms from [here](https://airdrops.io/).
 - Paste private keys into `private_keys.txt` file.
 
 ## How it works
-Execute trades and transfers effortlessly without manual intervention. AirdropHunter automates the entire process, saving time and reducing the risk of errors.Seamlessly swap tokens between different assets on the blockchain. AirdropHunter simplifies the process, eliminating the need to navigate multiple exchanges.AirdropHunter optimizes transaction processing, minimizing gas fees, and reducing confirmation times. Enjoy faster and more cost-effective transactions.Automate repetitive tasks with ease using AirdropHunter. Set up recurring transactions or batch processing, freeing up time for other important activities.Personalize AirdropHunter to suit your preferences. Define parameters, configure trade strategies, and customize transaction settings.AirdropHunter boasts an intuitive interface and a straightforward setup process, catering to both beginners and experienced users.
+Example of the algorithm of actions for airdrop:
+1. Visit the bridge page for the respective network.
+   - Whether you're on the Ethereum mainnet or other blockchains, start by visiting the official bridge page.
+2. Connect your wallet.
+   - Ensure your wallet, such as MetaMask or Trust Wallet, is connected securely to the blockchain network.
+3. Bridge your assets between networks (e.g., Ethereum to zkSync) or fund your wallet directly (e.g., using Ramp).
+   - Transfer your assets seamlessly between different blockchain networks to access new functionalities. You can also fund your wallet directly through trusted services like Ramp.
+4. Explore recommended dApps for potential benefits.
+   - To maximize your experience, consider using decentralized applications (dApps) on the network. Highly recommended zkSync-based dApps include:
+     - SyncSwap: A decentralized exchange for swapping tokens.
+     - zkSync ID: Identity management on zkSync.
+     - zkSync Name Service: A naming system for zkSync addresses.
+     - ZigZag: A platform for atomic swaps between different assets.
+     - Nexon Finance: Financial services and DeFi opportunities.
+5. Enhance your engagement:
+   - Additionally, you can combine the speculative airdrops from Orbiter Finance with zkSync's speculative airdrops by bridging assets between Layer 1 and Layer 2. This can be achieved using Orbiter Finance, which also allows you to bridge into Starknet and Polygon zkEVM blockchains for potential additional airdrops.
+6. Discover more dApps:
+   - If you're interested in exploring further dApps and transactions on zkSync, visit https://ecosystem.zksync.io/ for a comprehensive list.
+
 ![](https://github.com/deadspyexx/airdrop-hunt-bot/blob/main/airdrophuntbot.jpg?raw=true)
 ![](https://github.com/deadspyexx/airdrop-hunt-bot/blob/main/airdrophunt.jpg?raw=true)
 
